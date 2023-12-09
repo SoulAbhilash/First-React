@@ -1,3 +1,6 @@
+# Preview
+![image](https://github.com/SoulAbhilash/First-React/assets/82305969/efd8b91a-b788-440c-9e24-7b3f97c03d4f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
